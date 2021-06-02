@@ -1,0 +1,59 @@
+
+
+h1 {
+    text-align: center;
+    background-color: green;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 250px 1fr 250px;
+    justify-content: center;
+}
+
+main > #leftNav {
+    background: lightgreen;
+    
+    text-align: center;
+    order: 1;
+    display: grid;
+    grid-column-start: 1;
+    
+    grid-row-start: 1;
+    grid-row-end: 5;
+    height: 520px;
+    font-size: 24px;
+}
+
+
+
+section {
+    background: lightgray;
+    
+    display: flex;
+    flex-direction: row;
+    height: 520px;
+    order: 2;
+    font-size: 28px;
+    justify-content: center;
+}
+
+main > #rightdiv {
+    background: lightgreen;
+    
+    text-align: center;
+    order: 3;
+    display: grid;
+    height: 520px;
+    font-size: 28px;
+    justify-content: center;
+    width: 250px;
+}
+
+footer {
+    background: green;
+   
+    text-align: center;
+    position: fixed;
+    width: 1350px;
+}
