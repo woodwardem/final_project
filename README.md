@@ -8,3 +8,20 @@ User Stories: User- I want the ball to give back number answers to my question.
 Employees: We will use Math.random to allow random numbers to pop up on the ball when a question is rendered. 
 User: We want the 8 ball to have a clean look aliong with a well spaced out webpage (holy grail). 
 Employee: Use CSS to structure and style the whole page neatly. 
+
+
+
+
+
+
+
+
+
+
+
+
+Team Agreement/ Communication plan:
+-We will plan to communicate through slack and in person when we are in class. 
+-If we run into problems we will ask each other for help, and if that doesn't work we will ask a teacher
+-We will mainly work in class, except if we need to finish something on the project at home on the weekends or throughout the day. 
+-Tell other partner when we are making a push, so they can pull
