@@ -9,6 +9,7 @@ Employees: We will use Math.random to allow random numbers to pop up on the ball
 User: We want the 8 ball to have a clean look aliong with a well spaced out webpage (holy grail). 
 Employee: Use CSS to structure and style the whole page neatly. 
 
+<<<<<<< HEAD
 
 
 
@@ -25,3 +26,13 @@ Team Agreement/ Communication plan:
 -If we run into problems we will ask each other for help, and if that doesn't work we will ask a teacher
 -We will mainly work in class, except if we need to finish something on the project at home on the weekends or throughout the day. 
 -Tell other partner when we are making a push, so they can pull
+it
+Core Requirements
+●Must scaffold a GitHub repository
+●Must use Holy Grail layout
+●Must be styled, and formatted with CSS
+●Must organize code with functions
+●Must use arrays and/or objects to manage your data
+●Must use loops and conditionals to manage logic
+●Must have an entry point IIFE
+
