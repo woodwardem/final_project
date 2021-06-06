@@ -50,7 +50,7 @@ main > #rightdiv {
     height: 520px;
     font-size: 28px;
     justify-content: center;
-    width: 250px;
+    
 }
 
 footer {
@@ -59,4 +59,14 @@ footer {
     text-align: center;
     position: fixed;
     width: 1350px;
+}
+
+button {
+    height: 30px;
+    float: right;
+}
+
+input {
+    height: 60px;
+    width: 500px;
 }
