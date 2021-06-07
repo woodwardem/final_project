@@ -1,12 +1,11 @@
-//console.log('hello world');
+'use strict'
 
-function myFunction() {
-if (clicks !== 25 ) {
-    let random = Math.floor(Math.random())
-}
-let random = Math.floor(Math.random())
 
-}
+
+let answers = ['not today', 'i do not see it in your future', 'absolutely', 'almost positive', 'you will fail', 'no'];
+ function respond1() {
+     
+ }
 
 
 var text = document.createElement('Input');
