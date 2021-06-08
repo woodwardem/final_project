@@ -4,6 +4,7 @@ h1 {
     text-align: center;
     background-color: green;
     margin-bottom: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-top: 10px;
 }
 
@@ -25,7 +26,7 @@ main > #leftNav {
     grid-row-start: 1;
     grid-row-end: 5;
     height: 520px;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 
@@ -48,7 +49,7 @@ main > #rightdiv {
     order: 3;
     display: grid;
     height: 520px;
-    font-size: 28px;
+    font-size: 20px;
     justify-content: center;
     
 }
