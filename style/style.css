@@ -17,7 +17,7 @@ main {
 
 main > #leftNav {
     background: lightgreen;
-    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     order: 1;
     display: grid;
@@ -26,7 +26,7 @@ main > #leftNav {
     grid-row-start: 1;
     grid-row-end: 5;
     height: 520px;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 
@@ -39,17 +39,18 @@ section {
     height: 520px;
     order: 2;
     font-size: 28px;
-    justify-content: center;
+    
+    
 }
 
 main > #rightdiv {
     background: lightgreen;
-    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     order: 3;
     display: grid;
     height: 520px;
-    font-size: 20px;
+    font-size: 25px;
     justify-content: center;
     
 }
@@ -64,24 +65,44 @@ footer {
 
 button {
     height: 30px;
-    float: right;
+    display: grid;
+    grid-column-start: 3;
     margin-top: 20px;
-    
+    float: right;
+    margin-left: 5px;
 }
 a {
   justify-content: center;
   border: solid black 1px;
-  height: 30px;
+  height: 55px;
   margin-left: 65px;
   margin-right: 65px;
-  color: black;
+  color: wheat;
+  background: black;
 }
 input {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    margin-left: 10px;
+   display: grid;
+   grid-column-start: 2;
+    margin-left: 30px;
     margin-top: 20px;
     height: 60px;
     width: 500px;
+    
+}
+
+article {
+    background: black;
+    color: green;
+    height: 250px;
+    width: 250px;
+    margin-bottom: 20px;
+ text-align: center;
+border-radius: 50%;    
+margin-top: 200px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+justify-content: center;
+display: flex;
+align-items: center;
+
 }
